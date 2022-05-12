@@ -1,0 +1,14 @@
+table,th,td{
+    border: 1px solid red;
+    border-collapse: collapse;
+    padding: 10px;
+}
+.num,.head,.test,.box,.empty{
+    text-align: right;
+}
+.book{
+    text-align: center;
+}
+.undo{
+    border: none;
+}
